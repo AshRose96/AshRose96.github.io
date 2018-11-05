@@ -1,33 +1,34 @@
-body{
-  background-image: url("bWGradient.jpg");
+body {
+  background-image: url("stars.gif");
   background-repeat: no-repeat;
-  background-size: 5000px 1000px;
+  background-size: 6000px 1000px;
   background-color: black;
   width: 1500px;
   height: 1000px;
 }
 
-p{
-font-size: 24px;
-color:purple
-}
-h1{
-  color:black
-}
-h2{
-  color:grey
+p {
+  font-size: 24px;
+  color: purple
 }
 
-h3{
-  color:white
+h1 {
+  color: black
 }
 
-.white-box{
+h2 {
+  color: grey
+}
+
+h3 {
+  color: white
+}
+
+.white-box {
   background-image: url("bWGradient.jpg");
   background-repeat: no-repeat;
-  background-size: 5000px 1000px;
-  background-color: white;
+  background-size: 5000px 500px;
+  background-color: transparent;
   width: 1500px;
   height: 1000px;
-  padding: 5px;
 }
