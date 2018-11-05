@@ -1,0 +1,33 @@
+body{
+  background-image: url("bWGradient.jpg");
+  background-repeat: no-repeat;
+  background-size: 5000px 1000px;
+  background-color: black;
+  width: 1500px;
+  height: 1000px;
+}
+
+p{
+font-size: 24px;
+color:purple
+}
+h1{
+  color:black
+}
+h2{
+  color:grey
+}
+
+h3{
+  color:white
+}
+
+.white-box{
+  background-image: url("bWGradient.jpg");
+  background-repeat: no-repeat;
+  background-size: 5000px 1000px;
+  background-color: white;
+  width: 1500px;
+  height: 1000px;
+  padding: 5px;
+}
