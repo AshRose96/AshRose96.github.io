@@ -7,10 +7,6 @@ body {
   height: 301px;
 }
 
-p {
-  color: green
-}
-
 h1 {
   color: red
 }
@@ -21,6 +17,10 @@ h2 {
 
 h3 {
   color: yellow
+}
+
+p {
+  color: green
 }
 
 .white-box {
