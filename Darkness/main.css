@@ -1,5 +1,5 @@
 body{
-  background-image: url("BeeCat.gif");
+  background-image: url("skulls.gif");
    background-color: #cccccc;
 }
 
@@ -23,4 +23,8 @@ h3{
   width: 500px;
   padding: 50px;
   border: 5px solid yellow
+}
+
+window.onload = function() {
+    document.getElementById("my_audio").play();
 }
