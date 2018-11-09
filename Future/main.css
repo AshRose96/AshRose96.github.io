@@ -8,19 +8,28 @@ body {
 }
 
 h1 {
-  color: red
+  font-size: 24px;
+  color: #FB0700;
+  text-decoration: underline;
 }
 
 h2 {
-  color: orange
+  font-size: 24px;
+  color: #FB0700;
+  text-decoration: underline;
 }
 
 h3 {
-  color: yellow
+  font-size: 24px;
+  color: #FB0700;
+  text-decoration: underline;
 }
 
 p {
-  color: green
+  font-size: 24px;
+  color: #FB0700;
+  text-decoration: underline;
+  line-height: 200%
 }
 a{
   color: #FB0700;
