@@ -1,5 +1,5 @@
 body {
-  background-color: #EE82EE;
+  background-color: lavender;
   margin: 30px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
@@ -12,21 +12,25 @@ h1 {
 }
 
 a{
-color: black  
+color: black
 }
 
 .projectA {
-  background-color: #4B0082;
+  background-color: mediumpurple;
+  text-align: center
 }
 
 .projectB {
-  background-color: #4B0082;
+  background-color: mediumpurple;
+  text-align: center
 }
 
 .projectC {
-  background-color: #4B0082;
+  background-color: mediumpurple;
+  text-align: center
 }
 
 .projectD {
-  background-color: #4B0082;
+  background-color: mediumpurple;
+  text-align: center
 }
