@@ -11,18 +11,22 @@ h1 {
   padding: 20px 0px 10px 0px;
 }
 
-.project1{
-background-color: rgb(238,130,238);
+a{
+color: black  
 }
 
-.project2{
-background-color: rgb(238,130,238);
+.projectA {
+  background-color: #4B0082;
 }
 
-.project3{
-background-color: rgb(238,130,238);
+.projectB {
+  background-color: #4B0082;
 }
 
-.project4{
-background-color: rgb(238,130,238);
+.projectC {
+  background-color: #4B0082;
+}
+
+.projectD {
+  background-color: #4B0082;
 }
