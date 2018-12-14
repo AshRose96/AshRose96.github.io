@@ -1,4 +1,5 @@
 body {
+  background-color: #EE82EE;
   margin: 30px auto;
   max-width: 1000px;
   font-family: "Helvetica", "Arial", sans-serif;
@@ -8,4 +9,20 @@ body {
 
 h1 {
   padding: 20px 0px 10px 0px;
+}
+
+.project1{
+background-color: rgb(238,130,238);
+}
+
+.project2{
+background-color: rgb(238,130,238);
+}
+
+.project3{
+background-color: rgb(238,130,238);
+}
+
+.project4{
+background-color: rgb(238,130,238);
 }
