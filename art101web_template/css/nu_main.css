@@ -9,28 +9,28 @@
 
 
 body{
-    background: #500182;
+    background: #44007F;
    /* color:#5F066B;*/
-    color:#F20EC0;
+    color:#AB4CFF;
 
 }
 
 a:link {
-    color: #1F0BC9;
+    color: #6C00CC;
     text-decoration: none;
 }
 
 a:visited {
     text-decoration: none;
-    color: #1F0BC9;
+    color: #8800FF;
 }
 a:hover {
     text-decoration: none;
-    color: #0F0782;
+    color: #8800FF;
 }
 a:active {
     text-decoration: none;
-    color: #250DF0;
+    color: #AB4CFF;
 }
 
 td, th {
@@ -48,7 +48,7 @@ p {
 
 
 .note{
-    color:#0C0221;
+    color:#56277F;
     font-weight: bold
 }
 .container-full{
@@ -141,7 +141,7 @@ code{
 }
 
 .item_container_wpix {
-    background-color: #5F066B;
+    background-color: #8800FF;
     box-sizing: border-box;
     min-height: 300px;
     padding: 20px;
@@ -184,7 +184,7 @@ code{
     color : #FFF;
     margin-bottom: 10px;
     color: #fff;
-    background-color: #777;
+    background-color: #8800FF;
 }
 
 
@@ -203,7 +203,7 @@ code{
     width: 400px;
     height:250px;
     /*border:4px solid white;*/
-     border:4px solid #aaa;
+     border:4px solid #8800FF;
 }
 
 .item_smallleft img.smallvideopix, .item_largeright img.smallvideopix {
@@ -234,7 +234,7 @@ code{
     font-size:10px;
     font-style:oblique;
 
-    background-color: #656565;
+    background-color: #8800FF;
     margin-bottom: 20px;
 }
 
@@ -242,7 +242,7 @@ code{
 
 .statement_text {
 
-    background-color: #666;
+    background-color: #44007F;
     padding: 8px;
     margin-top: 20px;
     border: 1px dashed black;

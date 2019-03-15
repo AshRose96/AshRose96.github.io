@@ -1,7 +1,7 @@
 body {
 
-color:#F20EC0;
-background-color: #500182;
+color:#AB4CFF;
+background-color: #56277F;
 
 }
 
@@ -14,7 +14,7 @@ background-color: #500182;
   box-sizing: border-box; }
 
 a:hover{
-  color:#1F0BC9;
+  color:#8800FF;
   /*text-decoration: underline;*/
 }
 .nav_pad{
@@ -57,8 +57,8 @@ ul.disc{
 
 .statement_text {
 
-    background-color: #0F0782;
+    background-color: #6C00CC;
     padding: 8px;
     margin-top: 20px;
-    border: 1px dashed #0C0221;
+    border: 1px dashed #44007F;
 }
