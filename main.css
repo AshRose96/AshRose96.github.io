@@ -1,7 +1,7 @@
 body {
   background-color: lavender;
   margin: 30px auto;
-  max-width: 1000px;
+  /* max-width: 1000px; */
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
@@ -47,32 +47,39 @@ color: black;
 text-align: center;
 }
 
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto
+ }
+
 .projectA {
-  background-color: mediumpurple;
+  background-color: lavender;
   text-align: center
 }
 
 .projectB {
-  background-color: mediumpurple;
+  background-color: lavender;
   text-align: center
 }
 
 .projectC {
-  background-color: mediumpurple;
+  background-color: lavender;
   text-align: center
 }
 
 .projectD {
-  background-color: mediumpurple;
+  background-color: lavender;
   text-align: center
 }
 
 .projectE {
-  background-color: mediumpurple;
+  background-color: lavender;
   text-align: center
 }
 
 .projectF {
-  background-color: mediumpurple;
+  background-color: lavender;
   text-align: center
 }
